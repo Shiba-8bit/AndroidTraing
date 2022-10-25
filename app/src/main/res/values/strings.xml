@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">練習アプリ</string>
+    <string name="sub_title">サブ画面タイトル</string>
+    <string name="Profile">プロフィール</string>
+    <string-array name="currylist">
+        <item>ドライカレー</item>
+        <item>カツカレー</item>
+    </string-array>
+</resources>
